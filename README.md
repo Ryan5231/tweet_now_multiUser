@@ -28,6 +28,8 @@
 
 >Assuming you've configured things properly, the skeleton app should just run out of the box. However, the skeleton app doesn't do anything related to creating the user, logginer her in, etc. You'll need to implement that part on your own later. For now, though, just make sure the application skeleton works (which will prove that your environment and Twitter application are configured correctly).
 
+![MINUS](http://i1.minus.com/jne0iUhL5ZBJA.png)
+
 ## References
 - [Twitter Gem](https://github.com/sferik/twitter)
 - [OAuth Skeleton](http://cl.ly/0T1b461H2C2W)
